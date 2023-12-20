@@ -1,0 +1,7 @@
+
+
+buono-natali:
+  image: carnivuth/buono-natali:latest
+  ports:
+   - "6868:80"
+
